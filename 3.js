@@ -1,5 +1,4 @@
 
-
 // Which comes first?
 setTimeout(function() {
     console.log("chicken");
