@@ -5,7 +5,7 @@ Using the express node module, we can put together functional websites with very
 
 To run  
 ======  
-npm install  
+npm install express
 node app.js  
   
   
